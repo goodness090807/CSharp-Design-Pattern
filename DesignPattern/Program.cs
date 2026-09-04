@@ -8,7 +8,7 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            Singleton.Run();
+            Composite.Run();
         }
     }
 }

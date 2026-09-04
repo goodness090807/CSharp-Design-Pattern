@@ -1,7 +1,9 @@
 ﻿namespace DesignPattern.CreationalPatterns
 {
     /// <summary>
+    /// -----------------
     /// 單例設計模式
+    /// -----------------
     /// </summary>
     public class Singleton
     {
